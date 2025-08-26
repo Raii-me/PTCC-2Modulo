@@ -1,2 +1,2 @@
 # PTCC-MODULO2
-é tuf tuf pof pof vapo vapo o dia inteiro 
+Repositório dedicado à disciplina "Planejamento de Trabalho de Conclusão de Curso" (PTCC) contendo implementações, exercícios e projetos práticos realizados durante o curso de Desenvolvimento de Sistemas.
