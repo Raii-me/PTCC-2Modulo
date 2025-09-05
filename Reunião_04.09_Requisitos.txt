@@ -1,0 +1,23 @@
+DATA: 0/0/2025.
+Inicio: 19:30.
+Fim: 
+Local: ETEC - Mesas do 1ºAndar.
+
+Equipe_03.
+Membros:
+Raí Vicencio;
+Flavio Henrique;
+Julia Tenorio;
+Vinicius Matos;(faltou)
+
+Assuntos discutidos: 
+
+Conclusão: 
+
+
+Proxima reunião:
+
+Dia: 0/0/2025
+Horario: 19:30
+Local: ETEC - Mesas do 1ºAndar.
+
